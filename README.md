@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NodeJS, GraphQL, PostgreSQL**
 
-- 💬 Ask me about **React, Django**
+- 💬 Ask me about **React, TypeScript, Python, Django**
 
 - 📫 How to reach me **savelevartem5@gmail.com**
 
