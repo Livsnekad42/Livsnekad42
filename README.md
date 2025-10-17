@@ -15,8 +15,8 @@ I enjoy creating fast, secure, and visually consistent user experiences for dece
 ### ⚙️ Tech Stack
 **Blockchain:** Solana, Web3.js, Anchor (basic), Metaplex SDK, SPL Tokens  
 **Frontend:** Next.js, React, TypeScript, Tailwind CSS  
-**Backend:** Node.js, Fastify, PostgreSQL  
-**Tools:** Docker, GitHub Actions, Vercel, n8n  
+**Backend / Tools:** Python (FastAPI, scripts, automation), Node.js (utility APIs), PostgreSQL  
+**DevOps:** Docker, GitHub Actions, Vercel, n8n
 
 ---
 
