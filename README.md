@@ -1,4 +1,4 @@
-# Livsnekad42 — Solana Frontend & Web3 Developer
+# Solana Frontend & Web3 Developer
 
 Building modern interfaces for decentralized applications.  
 Focused on **Solana**, **Rust/Anchor basics**, and **Next.js + TypeScript** ecosystems.
