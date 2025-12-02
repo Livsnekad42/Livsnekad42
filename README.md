@@ -1,6 +1,6 @@
-# Solana Frontend & Web3 Developer
+# Frontend React & Next.js & Web3 Developer
 
-Frontend Developer — React & Next.js
+Frontend Developer — React & Next.js & Web3
 
 Building clean, efficient, and maintainable interfaces for modern web applications.
 Focused on React, Next.js, and scalable frontend architecture.
